@@ -1,0 +1,144 @@
+:root {
+    --fondo: #c4c4c4;
+    --fuente:#005677;
+    --negro: #000000;
+}
+
+img{
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;   
+}
+
+h1 {
+    position: absolute;
+    height: 60px;
+    width: 1440px;
+    left: 0px;
+    top: 188px;
+    border-radius: nullpx;
+
+    color: var(--fuente);
+    background-color: var(--fondo)
+    
+
+}
+h1 span{
+    width: 1013px;
+    height: 30px;
+    top: 202px;
+    left: 213px;
+    
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    
+
+}
+.datos{
+    width: 395.62px;
+    height: 17px;
+    top: 382px;
+    left: 12.45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;    
+    text-align: left;
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 12.45px;
+    top: 382px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;  
+    font-feature-settings: 'cpsp' on;  
+
+    
+}
+
+.academia {
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 12.45px;
+    top: 382px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    background-color: var(--fondo);
+    color: var(--fuente);
+}
+
+.listas {
+   
+    font-family: Times New Roman;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 13px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+    width: 199px;
+    height: 13px;
+    left: 39px;
+    top: 424px;
+
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    
+
+}
+.listas span{
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: var(--negro);   
+}
+.fechas {
+    position: absolute;
+    width: 262px;
+    height: 34px;
+    left: 19px;
+    top: 567px;
+}
+.fechas span{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: var(--negro)
+}
+.trabajo {
+    position: absolute;
+    width: 353px;
+    height: 34px;
+    left: 19px;
+    top: 722px;
+}
+.trabajo span {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: var(--negro);
+}

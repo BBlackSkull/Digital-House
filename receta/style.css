@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Miriam+Libre&display=swap');
+
+:root{
+    --beige: beige;
+    --rosa: pink;
+    --amarillo: rgba(255, 255, 59, 0.815);
+}
+body{
+    font-family: 'Cinzel', serif;
+    font-family: 'Miriam Libre', sans-serif;
+    background-color: var(--beige);
+}
+body .titulo{
+    color: var(--rosa);
+    display: flex;
+    
+}

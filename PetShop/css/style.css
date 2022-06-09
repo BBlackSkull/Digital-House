@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Miriam+Libre&display=swap');
+:root {
+    --negro: #222222;
+    --naranjaFondo: #F0A83E;
+    --marron: #3c2313;
+    --gris: #8a8787;
+    --fondo: #e5e5e5;
+
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--fondo);
+}
