@@ -24,6 +24,21 @@ body{
     font-size: 10px;
     line-height: 12px;
     color: var(--fuente);
-    left: 90px;
-    top: 4px;
+    padding-left: 90px;
+    padding-top: 4px;
+
+}
+.barraSuperior span {
+    padding-left: 890px;
+
+}
+.barraNavegacion {
+    background-color: var(--naranjaFondo);
+    width: 100%;
+    position: absolute;
+}
+h1 {
+    width: 58px;
+    font-size: 20px;
+    padding-top: 39px;
 }
